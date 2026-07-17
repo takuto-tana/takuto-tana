@@ -1,8 +1,9 @@
-# こんにちは、hirotoです              ![](https://komarev.com/ghpvc/?username=takuo-tana)
+# Hiroto
 
 ## 私について
 
 私は開発者志望で開発業務を目指しつつ趣味でもプロダクト作成をしております。
+金融系のインフラ運用を経験後現在は金融系ファイナンス事業でICT運用をしております。
 
 
 
@@ -30,9 +31,22 @@
 
 ## GitHub 統計
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!-- 詳細なコミット履歴 -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuto-tana&theme=github_dark" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+<!-- 統計カード -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takuto-tana&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takuto-tana&theme=github_dark&utcOffset=9" />
+</p>
+
+<!-- 使用言語 -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takuto-tana&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takuto-tana&theme=github_dark" />
+</p>
 
 ## 実績と認定資格
 
@@ -40,12 +54,6 @@
 - python3エンジニア認定基礎試験
 - 基本情報技術者試験
 
-## 最新のブログ投稿
-
-<！-- BLOG-POST-LIST:START -->
-
-- [5分で理解する非同期JavaScript](リンク)
-<！-- BLOG-POST-LIST:END -->
 
 ## 連絡先
 
