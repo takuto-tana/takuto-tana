@@ -16,15 +16,15 @@
 
 ## 技術スタック
 
-- 言語: JavaScript| TypeScript | Python | Java
+- 言語: JavaScript | TypeScript | Java | Python 
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,py)](https://skillicons.dev)
-- フロントエンド: React | HTML5 | CSS3
+- フロントエンド: React | HTML5 | CSS3 |Bbootstrap | Tailwind
   
-[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
-- バックエンド: Node.js | Spring Boot
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind)](https://skillicons.dev)
+- バックエンド: Node.js | Java | Python
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,py)](https://skillicons.dev)
 - データベース:MySQL
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
